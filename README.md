@@ -1,2 +1,1 @@
-# game-of-life
-Conway's Game of Life
+A parallel implementation of Conway's Game of Life
